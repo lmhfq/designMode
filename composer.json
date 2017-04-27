@@ -1,0 +1,17 @@
+{
+    "name": "root/design-mode",
+    "authors": [
+        {
+            "name": "qiufeng",
+            "email": "qiufeng@iqincheng.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "designMode\\": ""
+
+        }
+    }
+
+}
